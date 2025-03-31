@@ -14,15 +14,4 @@ This project marks the end of my **learning journey at HyperionDev as of March 3
 ## **Why Recursion?**  
 Recursion clicked for me when I saw it as **breaking a problem into smaller, self-similar parts—like Russian dolls!** 🎭 It’s elegant but also **tricky with memory**, so I explored **iteration** as well for comparison. Check out my reflections in **`docs/reflections.md`** for more insights!  
 
-## **How to Run 🏃‍♂️**  
-1️⃣ Clone this repo:  
-   ```bash
-   git clone https://github.com/[YourGitHubUsername]/GowerCampbell-RecursionJourney.git
-   ```  
-2️⃣ Navigate to a folder (e.g., `cd BankingApp`) and run a file:  
-   ```bash
-   python banking_recursive.py
-   ```  
-3️⃣ Some files (like in `BankingApp/`) use `transactions.txt` for I/O—make sure it’s in the same directory.  
-
 ### **Explore, experiment, and let me know what you think!** 🚀💡  
