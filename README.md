@@ -21,9 +21,3 @@ Recursion clicked for me when I saw it as **breaking a problem into smaller, sel
 
 ### **Explore, experiment, and let me know what you think!** 🚀💡  
 
----
-
-In this version:
-- I’ve updated all links to reflect the folder names starting with **`recursion`** for each respective folder and file.
-
-Would you like to save this to a markdown file for uploading to GitHub?
