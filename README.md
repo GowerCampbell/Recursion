@@ -5,13 +5,13 @@ Hey there! I’m **Gower Campbell**, and this repository is my deep dive into **
 This project marks the end of my **learning journey at HyperionDev as of March 31, 2025**, and I’m excited to share it with you!  
 
 ## **What’s Inside?**  
-📌 **Basics/** – Core recursion examples (**factorial, Fibonacci, sum of natural numbers**) to get a solid grasp of recursion vs. iteration.  
-📌 **Tasks/** – Solutions to auto-graded challenges, like summing a list up to an index and finding the largest number recursively.  
-📌 **Advanced/** – Fun problems, including **reversing lists, counting evens, and summing digits** using recursion.  
-📌 **BankingApp/** – A **banking transaction app** that processes transactions **recursively** and handles **file I/O**—my big project!  
-📌 **docs/** – My personal reflections on recursion and a **bibliography** of resources that helped me along the way.  
+📌 **[Basics/](https://github.com/GowerCampbell/GowerCampbell-RecursionJourney/tree/main/Basics)** – Core recursion examples (**factorial, Fibonacci, sum of natural numbers**) to get a solid grasp of recursion vs. iteration.  
+📌 **[Tasks/](https://github.com/GowerCampbell/GowerCampbell-RecursionJourney/tree/main/Tasks)** – Solutions to auto-graded challenges, like summing a list up to an index and finding the largest number recursively.  
+📌 **[Advanced/](https://github.com/GowerCampbell/GowerCampbell-RecursionJourney/tree/main/Advanced)** – Fun problems, including **reversing lists, counting evens, and summing digits** using recursion.  
+📌 **[BankingApp/](https://github.com/GowerCampbell/GowerCampbell-RecursionJourney/tree/main/BankingApp)** – A **banking transaction app** that processes transactions **recursively** and handles **file I/O**—my big project!  
+📌 **[docs/](https://github.com/GowerCampbell/GowerCampbell-RecursionJourney/tree/main/docs)** – My personal reflections on recursion and a **bibliography** of resources that helped me along the way.  
 
 ## **Why Recursion?**  
-Recursion clicked for me when I saw it as **breaking a problem into smaller, self-similar parts—like Russian dolls!** 🎭 It’s elegant but also **tricky with memory**, so I explored **iteration** as well for comparison. Check out my reflections in **`docs/reflections.md`** for more insights!  
+Recursion clicked for me when I saw it as **breaking a problem into smaller, self-similar parts—like Russian dolls!** 🎭 It’s elegant but also **tricky with memory**, so I explored **iteration** as well for comparison. Check out my reflections in **[`docs/reflections.md`](https://github.com/GowerCampbell/GowerCampbell-RecursionJourney/blob/main/docs/reflections.md)** for more insights!  
 
 ### **Explore, experiment, and let me know what you think!** 🚀💡  
