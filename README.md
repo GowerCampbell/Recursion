@@ -6,10 +6,14 @@ Hey there! I’m **Gower Campbell**, and this repository is my deep dive into **
 This project marks the end of my **learning journey at HyperionDev as of March 31, 2025**, and I’m excited to share it with you!  
 
 ## **What’s Inside?**  
-📌 **[recursion/Basics/](https://github.com/GowerCampbell/Recursion/tree/main/Basics))** – Core recursion examples (**factorial, Fibonacci, sum of natural numbers**) to get a solid grasp of recursion vs. iteration.  
+📌 **[recursion/Basics/](https://github.com/GowerCampbell/Recursion/tree/main/Basics)** – Core recursion examples (**factorial, Fibonacci, sum of natural numbers**) to get a solid grasp of recursion vs. iteration. 
+
 📌 **[recursion/Tasks/](https://github.com/GowerCampbell/Recursion/tree/main/Tasks)** – Solutions to auto-graded challenges, like summing a list up to an index and finding the largest number recursively.  
+
 📌 **[recursion/Advanced/](https://github.com/GowerCampbell/Recursion/tree/main/Advanced)** – Fun problems, including **reversing lists, counting evens, and summing digits** using recursion.  
-📌 **[recursion/BankingApp/](https://github.com/GowerCampbell/Recursion/tree/main/BankingApp)** – A **banking transaction app** that processes transactions **recursively** and handles **file I/O**—my big project!  
+
+📌 **[recursion/BankingApp/](https://github.com/GowerCampbell/Recursion/tree/main/BankingApp)** – A **banking transaction app** that processes transactions **recursively** and handles **file I/O**—my big project! 
+
 📌 **[recursion/docs/](https://github.com/GowerCampbell/Recursion/tree/main/docs)** – My personal reflections on recursion and a **bibliography** of resources that helped me along the way.  
 
 ## **Why Recursion?**  
