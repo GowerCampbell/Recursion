@@ -1,0 +1,16 @@
+2025-03-01,Salary,3000.00
+2025-03-02,Coffee,-3.50
+2025-03-03,Groceries,-125.40
+2025-03-05,Electricity Bill,-85.20
+2025-03-07,Freelance Payment,850.00
+2025-03-09,Movie Night,-15.00
+2025-03-10,Snacks,-2.99
+2025-03-11,Gym Membership,-40.00
+2025-03-15,Gift Received,100.00
+2025-03-18,Lunch,-12.75
+2025-03-21,Bookstore,-18.90
+2025-03-22,Online Sale Income,60.00
+2025-03-25,Public Transport,-7.50
+2025-03-27,Rent,-1200.00
+2025-03-29,Pet Supplies,-35.00
+2025-03-30,Birthday Gift,-50.00
