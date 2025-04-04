@@ -1,5 +1,5 @@
 
-# **Gower Campbell's Recursion Journey 🚀**  
+# **Recursion Journey 🚀**  
 
 Hey there! I’m **Gower Campbell**, and this repository is my deep dive into **recursion in Python**. I started with the fundamentals—**factorials, Fibonacci, summing numbers**—then leveled up to real-world applications like a **banking app with recursive transaction processing**. Along the way, I compared recursion vs. iteration, tackled auto-graded challenges, and even incorporated **file I/O** to make things more practical.  
 
